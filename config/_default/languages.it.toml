@@ -1,0 +1,15 @@
+disabled = false
+languageCode = "it"
+languageName = "Italian"
+weight = 1
+title = "Il Turno di Guardia"
+
+[params]
+displayName = "IT"
+isoCode = "it"
+rtl = false
+dateFormat = "2 January 2006"
+description = "Lorem ipsum"
+#logo = "img/logo.PNG"
+# copyright = "Copy, _right?_ :thinking_face:"
+

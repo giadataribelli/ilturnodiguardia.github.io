@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Il Turno di Guardia</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Il Turno di Guardia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    
+    <lastBuildDate>Fri, 14 Feb 2025 18:00:25 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Turno adolescenti: 01 - 04 MAGGIO 2025</title>
+      <link>http://localhost:1313/posts/20250501/</link>
+      <pubDate>Fri, 14 Feb 2025 18:00:25 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/20250501/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/20250501/feature.PNG" />
+    </item>
+    
+    <item>
+      <title>Ciao, sono Giada</title>
+      <link>http://localhost:1313/posts/20250831/</link>
+      <pubDate>Wed, 01 Jan 2025 00:01:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/20250831/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
