@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Il Turno di Guardia</title>
-    <link>http://localhost:1313/series/</link>
+    <link>https://ilturnodiguradia.it/series/</link>
     <description>Recent content in Series on Il Turno di Guardia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     
-    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ilturnodiguradia.it/series/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

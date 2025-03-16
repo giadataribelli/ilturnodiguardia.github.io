@@ -3,9 +3,12 @@ title: "TURNO PREADO 17 - 19 Aprile 2025"
 date: 2025-02-14T18:00:25+01:00
 draft: false
 description: "Turno dedicato alla fascia 11-13 anni"
+categories:
+- minori
 ---
 
 ## 17 - 19 Aprile 2025 Curino (BI)
+
 ## Mettersi nei panni dell'Altro
 
 <figure>

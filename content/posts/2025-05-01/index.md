@@ -3,6 +3,8 @@ title: "TURNO ADO 1 - 4 Maggio 2025"
 date: 2025-02-14T18:00:25+01:00
 draft: false
 description: "Turno dedicato alla fascia 14-19 anni"
+categories:
+- minori
 ---
 
 ## 1 - 4 Maggio 2025 Curino (BI)

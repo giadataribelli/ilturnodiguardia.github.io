@@ -3,31 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://ilturnodiguradia.it/collaborazioni/</loc>
+    <lastmod>2025-03-16T11:19:02+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ilturnodiguradia.it/</loc>
+    <lastmod>2025-03-16T11:19:02+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ilturnodiguradia.it/minori/</loc>
+    <lastmod>2025-03-16T11:19:02+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ilturnodiguradia.it/posts/</loc>
     <lastmod>2025-02-14T18:00:25+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://ilturnodiguradia.it/posts/2025-05-01/</loc>
     <lastmod>2025-02-14T18:00:25+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/2025-05-01/</loc>
+    <loc>https://ilturnodiguradia.it/posts/2025-04-17/</loc>
     <lastmod>2025-02-14T18:00:25+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/2025-04-17/</loc>
-    <lastmod>2025-02-14T18:00:25+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/2025-08-31/</loc>
+    <loc>https://ilturnodiguradia.it/posts/2025-08-31/</loc>
     <lastmod>2025-01-01T00:01:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
