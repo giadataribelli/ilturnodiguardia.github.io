@@ -79,4 +79,4 @@ entro qualche giorno con le indicazioni per confermare la prenotazione.
 
 **Ricordiamo che questo Turno è riservato a ragazzi dagli 11 ai 13 anni**
 
-INSERIRE IL FORM
+INSERIRE IL FORMlo
