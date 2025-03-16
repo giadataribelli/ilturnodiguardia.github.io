@@ -84,10 +84,4 @@ Sull’esterno troviamo un bellissimo porticato che si affaccia sull’area verd
 
 ## PRE-ISCRIZIONE
 
-Se siete interessati a iscrivervi a questo Turno di Guardia potete compilare
-il seguente form per dichiarare il vostro interesse. Vi arriverà una mail
-entro qualche giorno con le indicazioni per confermare la prenotazione. 
-
-**Ricordiamo che questo Turno è riservato a ragazzi dai 14 ai 19 anni**
-
-INSERIRE IL FORM
+Pre-iscrizione chiusa.

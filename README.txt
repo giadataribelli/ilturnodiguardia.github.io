@@ -1,9 +1,10 @@
+- [ ] redirect form 
 - [ ] cambiare font del titolo
 - [ ] logo nella home 
-- [ ] immagini ad hoc 
-- [ ] sistemare css custom
 - [ ] carosello con video 
-- [ ] gradiente 
 
 - [ ] prendere il dominio
 - [ ] inserire pipeline
+
+- [x] immagini ad hoc 
+- [x] sistemare css custom
