@@ -9,7 +9,7 @@ description: "Turno dedicato alla fascia 14-19 anni"
 ## Identità
 
 <figure>
-      <img src="gruppoincerchio.jpg" alt="Persone giocano al tavolo"/> 
+      <img class=responsive-image src="gruppoincerchio.jpg" alt="Persone giocano al tavolo"/> 
 </figure>
 
 ## TEMATICA
@@ -32,7 +32,7 @@ le nostre origini? Cosa ci distingue e cosa ci unisce agli altri?
 ## LA CASA
 
 <figure>
-      <img src="casa.jpg" alt="Casa vacanze"/> 
+      <img class=responsive-image src="casa.jpg" alt="Casa vacanze"/> 
 </figure>
 
 La casa che ci ospiterà si trova nella frazione di San Nicolao, a Curino ed 

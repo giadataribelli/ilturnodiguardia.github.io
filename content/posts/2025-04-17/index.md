@@ -9,7 +9,7 @@ description: "Turno dedicato alla fascia 11-13 anni"
 ## Mettersi nei panni dell'Altro
 
 <figure>
-      <img src="condivisione.jpg" alt="Persone giocano al tavolo"/> 
+      <img class=responsive-image src="condivisione.jpg" alt="Persone giocano al tavolo" class=image-container/> 
 </figure>
 
 ## TEMATICA
@@ -29,7 +29,7 @@ Attraverso un’avventura scritta appositamente su questo tema e giochi in scato
 ## LA CASA
 
 <figure>
-      <img src="casa.jpg" alt="Casa vacanze"/> 
+      <img class=responsive-image src="casa.jpg" alt="Casa vacanze"/> 
 </figure>
 
 La casa che ci ospiterà si trova nella frazione di San Nicolao, a Curino ed 

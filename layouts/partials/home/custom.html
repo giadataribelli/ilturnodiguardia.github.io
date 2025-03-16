@@ -84,23 +84,6 @@
     </p>
 {{ $image := resources.Get "img/gioco_di_ruolo.jpg" }}
 {{ if $image }}
-<style>
-.image-container {
-    display: flex; /* Utilizza Flexbox per centrare l'immagine */
-    justify-content: left; /* Centra orizzontalmente */
-    align-items: center; /* Centra verticalmente */
-    margin-top: 20px; /* Spazio sopra il contenitore */
-    margin-bottom: 20px; /* Spazio sotto il contenitore */
-}
-
-.responsive-image {
-    width: 500px; /* Imposta una larghezza fissa per rendere l'immagine quadrata */
-    height: 300px; /* Imposta un'altezza fissa per rendere l'immagine quadrata */
-    object-fit: cover; /* Ritaglia l'immagine per riempire il contenitore */
-    border-radius: 15px; /* Aggiunge bordi tondi all'immagine */
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Ombra dell'immagine */
-}
-</style>
 <div class="image-container">
     <img src="{{ $image.Permalink }}" alt="Descrizione dell'immagine" class="responsive-image" />
 </div>
@@ -158,15 +141,6 @@
     </h2>
     {{ $image := resources.Get "img/giada.jpg" }}
 {{ if $image }}
-<style>
-.responsive-author {
-    width: 300px; /* Imposta una larghezza fissa per rendere l'immagine quadrata */
-    height: 300px; /* Imposta un'altezza fissa per rendere l'immagine quadrata */
-    object-fit: cover; /* Ritaglia l'immagine per riempire il contenitore */
-    border-radius: 15px; /* Aggiunge bordi tondi all'immagine */
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Ombra dell'immagine */
-}
-</style>
 <div class="image-container">
     <img src="{{ $image.Permalink }}" alt="Descrizione dell'immagine" class="responsive-author" />
 </div>

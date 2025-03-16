@@ -9,7 +9,7 @@ description: "Turno estivo dedicato alla fascia 14/19 anni"
 ## 31 Agosto - 6 Settembre 2025 Tartano (SO)
 ## Cambiamento
 <figure>
-      <img src="gruppo.jpeg" alt="Persone giocano al tavolo" />
+      <img class=responsive-image src="gruppo.jpeg" alt="Persone giocano al tavolo" />
 </figure>
 
 ## TEMATICA
@@ -29,7 +29,7 @@ Attraverso un’avventura scritta appositamente su questo tema e giochi in scato
 ## IL RIFUGIO
 
 <figure>
-      <img src="rifugio.jpeg" alt="Persone giocano al tavolo" />
+      <img class=responsive-image src="rifugio.jpeg" alt="Persone giocano al tavolo" />
 </figure>
 
 Il rifugio che ci ospiterà si trova nel borgo di Arale, in Val Tartano (SO) ed è una struttura che si sviluppa su due diversi edifici. Una casa ospita la camerata su due piani, completa di bagni e docce separate. L’altro edificio ospita la sala in cui si svolgono i pasti e le attività al tavolo, mentre al piano di sotto troviamo un altro spazio per le attività al chiuso e un bagno completo di doccia.  Lo spazio all’aperto è molto ampio e non ha un confine con le montagne e i boschi circostanti, il che ci permetterà – clima permettendo – di effettuare brevi passeggiate e vere e proprie escursioni. Il rifugio è gestito dal Pirata Vittorio e da Leila, che si occupano della preparazione dei pasti. 
