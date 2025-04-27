@@ -45,60 +45,65 @@ Il rifugio che ci ospiterà si trova nel borgo di Arale, in Val Tartano (SO) ed 
 
  ## Programma sommativo delle giornate
 
-**31 AGOSTO**
+{{< timeline >}}
 
-- Accoglienza alle 14:00
-- Sistemazione nelle camerate e giochi di presentazione
-- Attività sulla tematica e riflessioni guidate
-- Sessione di costruzione dei personaggi per il gioco di ruolo
-- Cerchio di parola
+{{< timelineItem icon="calendar" header="31 AGOSTO" badge="31/08" >}}
+Accoglienza alle 14:00<br>
+Sistemazione nelle camerate e giochi di presentazione<br>
+Attività sulla tematica e riflessioni guidate<br>
+Sessione di costruzione dei personaggi per il gioco di ruolo<br>
+Cerchio di parola
+{{< /timelineItem >}}
 
-**1 SETTEMBRE**
+{{< timelineItem icon="calendar" header="1 SETTEMBRE" badge="01/09" >}}
+Dinamiche rompighiaccio e Cerchio mattutino<br>
+Giochi a squadre e di movimento<br>
+Sessione di gioco di ruolo<br>
+Giochi a squadre<br>
+Cerchio serale
+{{< /timelineItem >}}
 
-- Dinamiche rompighiaccio e Cerchio mattutino
-- Giochi a squadre e di movimento
-- Sessione di gioco di ruolo
-- Giochi a squadre
-- Cerchio serale
+{{< timelineItem icon="calendar" header="2 SETTEMBRE" badge="02/09" >}}
+Dinamiche rompighiaccio e Cerchio mattutino<br>
+Passeggiata in natura e pranzo al sacco<br>
+Attività sulla tematica e rientro al rifugio<br>
+Sessione di gioco di ruolo<br>
+Cerchio serale
+{{< /timelineItem >}}
 
-**2 SETTEMBRE**
+{{< timelineItem icon="calendar" header="3 SETTEMBRE" badge="03/09" >}}
+Dinamiche rompighiaccio e Cerchio mattutino<br>
+Giochi in scatola sulla tematica e riflessioni guidate<br>
+Sessione di gioco di ruolo<br>
+Giochi a squadre<br>
+Cerchio serale
+{{< /timelineItem >}}
 
-- Dinamiche rompighiaccio e Cerchio mattutino
-- Passeggiata in natura e pranzo al sacco
-- Attività sulla tematica e rientro al rifugio
-- Sessione di gioco di ruolo
-- Cerchio serale
+{{< timelineItem icon="calendar" header="4 SETTEMBRE" badge="04/09" >}}
+Dinamiche rompighiaccio e Cerchio mattutino<br>
+Sessione di gioco di ruolo<br>
+Passeggiata in natura e merenda al sacco<br>
+Giochi a squadre<br>
+Cerchio serale
+{{< /timelineItem >}}
 
-**3 SETTEMBRE**
+{{< timelineItem icon="calendar" header="5 SETTEMBRE" badge="05/09" >}}
+Dinamiche rompighiaccio e Cerchio mattutino<br>
+Giochi in scatola sulla tematica e riflessioni guidate<br>
+Sessione di gioco di ruolo<br>
+Serata di festa (giochi vari, balli, karaoke, attività proposte dal gruppo)
+{{< /timelineItem >}}
 
-- Dinamiche rompighiaccio e Cerchio mattutino
-- Giochi in scatola sulla tematica e riflessioni guidate
-- Sessione di gioco di ruolo
-- Giochi a squadre
-- Cerchio serale
+{{< timelineItem icon="calendar" header="6 SETTEMBRE" badge="06/09" >}}
+Dinamiche rompighiaccio<br> 
+Debriefing sull’avventura e la tematica<br> 
+Sistemazione della casa e bagagli<br> 
+Momento di saluti<br> 
+Partenza alle 16:00
+{{< /timelineItem >}}
 
-**4 SETTEMBRE**
+{{< /timeline >}}
 
-- Dinamiche rompighiaccio e Cerchio mattutino
-- Sessione di gioco di ruolo
-- Passeggiata in natura e merenda al sacco
-- Giochi a squadre
-- Cerchio serale
-
-**5 SETTEMBRE**
-
-- Dinamiche rompighiaccio e Cerchio mattutino
-- Giochi in scatola sulla tematica e riflessioni guidate
-- Sessione di gioco di ruolo
-- Serata di festa (giochi vari, balli, karaoke, attività proposte dal gruppo)
-
-**6 SETTEMBRE**
-
-- Dinamiche rompighiaccio
-- Debriefing sull’avventura e la tematica
-- Sistemazione della casa e bagagli
-- Momento di saluti
-- Partenza alle 16
 
 ## PRE-ISCRIZIONE
 
