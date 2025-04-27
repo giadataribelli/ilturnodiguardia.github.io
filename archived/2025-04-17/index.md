@@ -2,6 +2,7 @@
 title: "TURNO PREADO 17 - 19 Aprile 2025"
 date: 2025-02-14T18:00:25+01:00
 draft: false
+expiryDate: 2025-04-27T00:32:13-07:00
 description: "Turno dedicato alla fascia 11-13 anni"
 categories:
 - minori

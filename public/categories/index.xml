@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Il Turno di Guardia</title>
-    <link>https://ilturnodiguradia.it/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Il Turno di Guardia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     
-    <lastBuildDate>Fri, 14 Feb 2025 18:00:25 +0100</lastBuildDate><atom:link href="https://ilturnodiguradia.it/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2025 00:01:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Minori</title>
-      <link>https://ilturnodiguradia.it/categories/minori/</link>
-      <pubDate>Fri, 14 Feb 2025 18:00:25 +0100</pubDate>
+      <link>http://localhost:1313/categories/minori/</link>
+      <pubDate>Wed, 01 Jan 2025 00:01:00 +0100</pubDate>
       
-      <guid>https://ilturnodiguradia.it/categories/minori/</guid>
+      <guid>http://localhost:1313/categories/minori/</guid>
       <description></description>
       
     </item>

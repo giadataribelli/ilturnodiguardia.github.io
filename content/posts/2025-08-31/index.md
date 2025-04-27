@@ -101,8 +101,8 @@ Il rifugio che ci ospiterà si trova nel borgo di Arale, in Val Tartano (SO) ed 
 ## PRE-ISCRIZIONE
 
 Se siete interessati a iscrivervi a questo Turno di Guardia potete compilare
-il seguente form per dichiarare il vostro interesse. Vi arriverà una mail
-entro qualche giorno con le indicazioni per confermare la prenotazione. 
+il seguente form per pre-iscrivere vostra figlia o vostro figlio. Vi arriverà una mail
+con le indicazioni per confermare la prenotazione.
 
 **Ricordiamo che questo Turno è riservato a ragazzi dai 14 ai 19 anni**
 
