@@ -1,5 +1,5 @@
 run:
-	@hugo serve --buildDrafts --buildExpired --buildFuture --navigateToChanged
+	@hugo serve --buildDrafts --buildFuture --navigateToChanged
 
 build:
 	@hugo
