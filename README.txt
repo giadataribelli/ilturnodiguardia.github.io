@@ -1,10 +1,10 @@
 - [ ] redirect form 
-- [ ] cambiare font del titolo
+- [x] cambiare font del titolo
 - [ ] logo nella home 
-- [ ] carosello con video 
+- [x] carosello con video 
 
-- [ ] prendere il dominio
-- [ ] inserire pipeline
+- [x] prendere il dominio
+- [x] inserire pipeline
 
 - [x] immagini ad hoc 
 - [x] sistemare css custom

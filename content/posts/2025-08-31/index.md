@@ -9,6 +9,7 @@ categories:
 
 
 ## 31 Agosto - 6 Settembre 2025 Tartano (SO)
+
 ## Cambiamento
 <figure>
       <img class=responsive-image src="gruppo.jpeg" alt="Persone giocano al tavolo" />
@@ -39,7 +40,8 @@ Il rifugio che ci ospiterà si trova nel borgo di Arale, in Val Tartano (SO) ed 
 
  ## TESTIMONIANZE DI ALTRI TURNI
 
- INSERIRE IL VIDEO
+{{< youtubeLite id="Kluqy83C4hQ" label="video del turno precedente in Val Tartano" >}}
+
 
  ## Programma sommativo delle giornate
 

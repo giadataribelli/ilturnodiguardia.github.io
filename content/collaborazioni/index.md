@@ -17,6 +17,8 @@ Abbiamo già collaborato con [Cascina Biblioteca](https://cascinabiblioteca.it/)
     target="_blank"
 >}}
 
+{{< youtubeLite id="zQI56sacWNA" label="Turno di Guardia con Cascina Biblioteca" >}}
+
 
 e [Fondazione Daimon](https://www.fondazionedaimon.com/)
 
@@ -26,6 +28,8 @@ e [Fondazione Daimon](https://www.fondazionedaimon.com/)
     href="https://www.fondazionedaimon.com/"
     target="_blank"
 >}}
+
+{{< youtubeLite id="sx3tSPLDwD0" label="Turno di Guardia con Findazione Daimon" >}}
 
 per portare Turni di Guardia pensati _ad hoc_ per gruppi già formati.
 
