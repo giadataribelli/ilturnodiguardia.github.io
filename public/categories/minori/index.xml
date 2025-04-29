@@ -2,41 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Minori on Il Turno di Guardia</title>
-    <link>https://ilturnodiguradia.it/categories/minori/</link>
+    <link>http://localhost:1313/categories/minori/</link>
     <description>Recent content in Minori on Il Turno di Guardia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     
-    <lastBuildDate>Fri, 14 Feb 2025 18:00:25 +0100</lastBuildDate><atom:link href="https://ilturnodiguradia.it/categories/minori/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>TURNO ADO 1 - 4 Maggio 2025</title>
-      <link>https://ilturnodiguradia.it/posts/2025-05-01/</link>
-      <pubDate>Fri, 14 Feb 2025 18:00:25 +0100</pubDate>
-      
-      <guid>https://ilturnodiguradia.it/posts/2025-05-01/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ilturnodiguradia.it/posts/2025-05-01/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>TURNO PREADO 17 - 19 Aprile 2025</title>
-      <link>https://ilturnodiguradia.it/posts/2025-04-17/</link>
-      <pubDate>Fri, 14 Feb 2025 18:00:25 +0100</pubDate>
-      
-      <guid>https://ilturnodiguradia.it/posts/2025-04-17/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ilturnodiguradia.it/posts/2025-04-17/feature.jpg" />
-    </item>
+    <lastBuildDate>Wed, 01 Jan 2025 00:01:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/categories/minori/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>TURNO ADO 31 Agosto - 6 Settembre 2025</title>
-      <link>https://ilturnodiguradia.it/posts/2025-08-31/</link>
+      <link>http://localhost:1313/posts/2025-08-31/</link>
       <pubDate>Wed, 01 Jan 2025 00:01:00 +0100</pubDate>
       
-      <guid>https://ilturnodiguradia.it/posts/2025-08-31/</guid>
+      <guid>http://localhost:1313/posts/2025-08-31/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ilturnodiguradia.it/posts/2025-08-31/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2025-08-31/feature.jpg" />
     </item>
     
   </channel>

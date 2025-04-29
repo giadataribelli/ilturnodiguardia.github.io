@@ -10,8 +10,8 @@
     width: 500px; /* Imposta una larghezza fissa per rendere l'immagine quadrata */
     height: 300px; /* Imposta un'altezza fissa per rendere l'immagine quadrata */
     object-fit: cover; /* Ritaglia l'immagine per riempire il contenitore */
-    border-radius: 15px; /* Aggiunge bordi tondi all'immagine */
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Ombra dell'immagine */
+    border-radius: 10px; /* Aggiunge bordi tondi all'immagine */
+    box-shadow: 0 1px 10px rgba(0, 0, 0, 0.3); /* Ombra dell'immagine */
 }
 
 .responsive-author {

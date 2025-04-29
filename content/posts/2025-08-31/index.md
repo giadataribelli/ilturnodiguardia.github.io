@@ -9,6 +9,7 @@ categories:
 
 
 ## 31 Agosto - 6 Settembre 2025 Tartano (SO)
+
 ## Cambiamento
 <figure>
       <img class=responsive-image src="gruppo.jpeg" alt="Persone giocano al tavolo" />
@@ -39,64 +40,70 @@ Il rifugio che ci ospiterà si trova nel borgo di Arale, in Val Tartano (SO) ed 
 
  ## TESTIMONIANZE DI ALTRI TURNI
 
- INSERIRE IL VIDEO
+{{< youtubeLite id="Kluqy83C4hQ" label="video del turno precedente in Val Tartano" >}}
+
 
  ## Programma sommativo delle giornate
 
-**31 AGOSTO**
+{{< timeline >}}
 
-- Accoglienza alle 14:00
-- Sistemazione nelle camerate e giochi di presentazione
-- Attività sulla tematica e riflessioni guidate
-- Sessione di costruzione dei personaggi per il gioco di ruolo
-- Cerchio di parola
+{{< timelineItem icon="calendar" header="31 AGOSTO" badge="31/08" >}}
+Accoglienza alle 14:00<br>
+Sistemazione nelle camerate e giochi di presentazione<br>
+Attività sulla tematica e riflessioni guidate<br>
+Sessione di costruzione dei personaggi per il gioco di ruolo<br>
+Cerchio di parola
+{{< /timelineItem >}}
 
-**1 SETTEMBRE**
+{{< timelineItem icon="calendar" header="1 SETTEMBRE" badge="01/09" >}}
+Dinamiche rompighiaccio e Cerchio mattutino<br>
+Giochi a squadre e di movimento<br>
+Sessione di gioco di ruolo<br>
+Giochi a squadre<br>
+Cerchio serale
+{{< /timelineItem >}}
 
-- Dinamiche rompighiaccio e Cerchio mattutino
-- Giochi a squadre e di movimento
-- Sessione di gioco di ruolo
-- Giochi a squadre
-- Cerchio serale
+{{< timelineItem icon="calendar" header="2 SETTEMBRE" badge="02/09" >}}
+Dinamiche rompighiaccio e Cerchio mattutino<br>
+Passeggiata in natura e pranzo al sacco<br>
+Attività sulla tematica e rientro al rifugio<br>
+Sessione di gioco di ruolo<br>
+Cerchio serale
+{{< /timelineItem >}}
 
-**2 SETTEMBRE**
+{{< timelineItem icon="calendar" header="3 SETTEMBRE" badge="03/09" >}}
+Dinamiche rompighiaccio e Cerchio mattutino<br>
+Giochi in scatola sulla tematica e riflessioni guidate<br>
+Sessione di gioco di ruolo<br>
+Giochi a squadre<br>
+Cerchio serale
+{{< /timelineItem >}}
 
-- Dinamiche rompighiaccio e Cerchio mattutino
-- Passeggiata in natura e pranzo al sacco
-- Attività sulla tematica e rientro al rifugio
-- Sessione di gioco di ruolo
-- Cerchio serale
+{{< timelineItem icon="calendar" header="4 SETTEMBRE" badge="04/09" >}}
+Dinamiche rompighiaccio e Cerchio mattutino<br>
+Sessione di gioco di ruolo<br>
+Passeggiata in natura e merenda al sacco<br>
+Giochi a squadre<br>
+Cerchio serale
+{{< /timelineItem >}}
 
-**3 SETTEMBRE**
+{{< timelineItem icon="calendar" header="5 SETTEMBRE" badge="05/09" >}}
+Dinamiche rompighiaccio e Cerchio mattutino<br>
+Giochi in scatola sulla tematica e riflessioni guidate<br>
+Sessione di gioco di ruolo<br>
+Serata di festa (giochi vari, balli, karaoke, attività proposte dal gruppo)
+{{< /timelineItem >}}
 
-- Dinamiche rompighiaccio e Cerchio mattutino
-- Giochi in scatola sulla tematica e riflessioni guidate
-- Sessione di gioco di ruolo
-- Giochi a squadre
-- Cerchio serale
+{{< timelineItem icon="calendar" header="6 SETTEMBRE" badge="06/09" >}}
+Dinamiche rompighiaccio<br> 
+Debriefing sull’avventura e la tematica<br> 
+Sistemazione della casa e bagagli<br> 
+Momento di saluti<br> 
+Partenza alle 16:00
+{{< /timelineItem >}}
 
-**4 SETTEMBRE**
+{{< /timeline >}}
 
-- Dinamiche rompighiaccio e Cerchio mattutino
-- Sessione di gioco di ruolo
-- Passeggiata in natura e merenda al sacco
-- Giochi a squadre
-- Cerchio serale
-
-**5 SETTEMBRE**
-
-- Dinamiche rompighiaccio e Cerchio mattutino
-- Giochi in scatola sulla tematica e riflessioni guidate
-- Sessione di gioco di ruolo
-- Serata di festa (giochi vari, balli, karaoke, attività proposte dal gruppo)
-
-**6 SETTEMBRE**
-
-- Dinamiche rompighiaccio
-- Debriefing sull’avventura e la tematica
-- Sistemazione della casa e bagagli
-- Momento di saluti
-- Partenza alle 16
 
 ## PREZZO
 La quota comprensiva di vitto, alloggio, attività ludico-formative, escursione con guida alpina e assicurazione è di 580,00 euro iva inclusa.
@@ -106,8 +113,8 @@ Coloro che si iscrivono al loro primo Turno di Guardia possono usufruire dello s
 ## PRE-ISCRIZIONE
 
 Se siete interessati a iscrivervi a questo Turno di Guardia potete compilare
-il seguente form per dichiarare il vostro interesse. Vi arriverà una mail
-entro qualche giorno con le indicazioni per confermare la prenotazione. 
+il seguente form per pre-iscrivere vostra figlia o vostro figlio. Vi arriverà una mail
+con le indicazioni per confermare la prenotazione.
 
 **Ricordiamo che questo Turno è riservato a ragazzi dai 14 ai 19 anni**
 
