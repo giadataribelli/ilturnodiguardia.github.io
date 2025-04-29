@@ -98,6 +98,11 @@ Il rifugio che ci ospiterà si trova nel borgo di Arale, in Val Tartano (SO) ed 
 - Momento di saluti
 - Partenza alle 16
 
+## PREZZO
+La quota comprensiva di vitto, alloggio, attività ludico-formative, escursione con guida alpina e assicurazione è di 580,00 euro iva inclusa.
+Coloro che si iscrivono al loro primo Turno di Guardia possono usufruire dello sconto del 5% per la promozione "Nuovi Avventurieri".
+
+
 ## PRE-ISCRIZIONE
 
 Se siete interessati a iscrivervi a questo Turno di Guardia potete compilare
