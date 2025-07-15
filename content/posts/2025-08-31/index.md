@@ -8,7 +8,7 @@ categories:
 ---
 
 
-## 31 Agosto - 6 Settembre 2025 Tartano (SO)
+## 31 Agosto - 6 Settembre 2025 Tartano (SO) SOLD-OUT!
 
 ## Cambiamento
 <figure>
@@ -108,6 +108,8 @@ Partenza alle 16:00
 ## PREZZO
 La quota comprensiva di vitto, alloggio, attività ludico-formative, escursione con guida alpina e assicurazione è di 580,00 euro iva inclusa.
 Coloro che si iscrivono al loro primo Turno di Guardia possono usufruire dello sconto del 5% per la promozione "Nuovi Avventurieri".
+
+ATTENZIONE: Questo Turno è sold-out, ma puoi dare un'occhiata ai Turni successivi già presenti sul sito!
 
 
 ## PRE-ISCRIZIONE
