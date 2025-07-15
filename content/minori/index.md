@@ -6,9 +6,7 @@ title = 'Minori'
 
 ## Vivaio Famiglia
 
-Il Turno di guardia per minori è gestito con l'aiuto di 
-<a href="https://vivaiofamiglia.it/" class="text-primary-500 hover:text-primary-700"><b>Vivaio Famiglia</b><br>
-</a>
+Il Turno di guardia per minori è gestito con l'aiuto di [Vivaio Famiglia](https://vivaiofamiglia.it/)
 
 <figure>
       <img class= responsive-image src="loghi.png" alt="loghi" class=image-container/> 
