@@ -22,7 +22,7 @@ Attraverso un’avventura scritta appositamente su questo tema e giochi in scato
 
 ## ATTIVITÀ
 
-- Avventura di gioco di ruolo 
+- Avventura di gioco di ruolo
 - Cerchi di parola
 - Giochi in scatola
 - Giochi a squadre
