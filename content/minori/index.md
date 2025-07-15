@@ -18,3 +18,4 @@ Il Turno di guardia per minori è gestito con l'aiuto di [Vivaio Famiglia](https
 
 {{< article link="/posts/2025-08-31/" >}}
 
+{{< article link="/posts/2025-12-6/" >}}
