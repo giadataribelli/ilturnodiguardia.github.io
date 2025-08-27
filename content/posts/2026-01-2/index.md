@@ -46,7 +46,7 @@ La casa che ci ospiterà si trova nella frazione di San Nicolao, a Curino, in pr
 
 {{< timeline >}}
 
-{{< timelineItem icon="calendar" header="2 GENNAIO" badge="31/08" >}}
+{{< timelineItem icon="calendar" header="2 GENNAIO" badge="02/01" >}}
 Accoglienza alle 14:00<br>
 Sistemazione nelle camerate e giochi di presentazione<br>
 Primo Cerchio per la condivisione degli Accordi e dei Turni di servizio<br>
@@ -55,7 +55,7 @@ Sessione di gioco di ruolo<br>
 Cerchio di parola
 {{< /timelineItem >}}
 
-{{< timelineItem icon="calendar" header="3 GENNAIO" badge="01/09" >}}
+{{< timelineItem icon="calendar" header="3 GENNAIO" badge="03/01" >}}
 Dinamiche rompighiaccio e Cerchio mattutino<br>
 Attività sul tema<br>
 Gioco in scatola sul tema<br>
@@ -64,7 +64,7 @@ Serata di giochi a squadre<br>
 Cerchio serale
 {{< /timelineItem >}}
 
-{{< timelineItem icon="calendar" header="4 GENNAIO" badge="02/09" >}}
+{{< timelineItem icon="calendar" header="4 GENNAIO" badge="04/01" >}}
 Dinamiche rompighiaccio e Cerchio mattutino<br>
 Passeggiata nei boschi<br>
 Gioco in scatola sul tema<br>
@@ -73,7 +73,7 @@ Festa con proposte dei ragazzi<br>
 Cerchio serale
 {{< /timelineItem >}}
 
-{{< timelineItem icon="calendar" header="5 GENNAIO" badge="03/09" >}}
+{{< timelineItem icon="calendar" header="5 GENNAIO" badge="05/01" >}}
 Dinamiche rompighiaccio e Cerchio mattutino<br>
 Giochi in scatola sulla tematica e riflessioni guidate<br>
 Sessione di gioco di ruolo<br>
