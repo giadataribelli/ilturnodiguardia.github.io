@@ -12,7 +12,7 @@ categories:
 
 ## Cambiamento
 <figure>
-      <img class=responsive-image src="gruppo.jpeg" alt="Persone giocano al tavolo" />
+      <img class=responsive-image src="condivisione.jpg" alt="Persone giocano al tavolo" />
 </figure>
 
 ## TEMATICA
@@ -32,15 +32,15 @@ Attraverso un’avventura scritta appositamente su questo tema e giochi in scato
 ## LA CASA
 
 <figure>
-      <img class=responsive-image src="rifugio.jpeg" alt="Persone giocano al tavolo" />
+      <img class=responsive-image src="casa.jpg" alt="Persone giocano al tavolo" />
 </figure>
 
-La casa che ci ospiterà si trova nella frazione di San Nicolao, a Curino, in provincia di Biella. È una struttura con cui collaboriamo volentieri da tempo perché amiamo la loro ospitalità e perché il ricavato di ciò che viene dato loro per l'alloggio viene versato all'Organizzazione Mato Grosso. La casa si sviluppa su due piani e ha un ampio giardino all'esterno, completo di calcetto e ping pong. Il piano terra viene utilizzato per le attività principali e i pasti, sono presenti due bagni sotto al porticato. Il primo piano ospita invece la camera delle formatrici, una delle due camerate e altri bagni. Mentre la soffitta ospita l'ultima camerata disponibile. Durante il nostro soggiorno è possibile che familiari e amici della signora Antonia, che ci ospita e si prende cura di noi, arrivino alla casa, ma sempre lasciandoci spazio e riservatezza per effettuare le nostre attività nei luoghi prestabiliti. 
+La casa che ci ospiterà si trova nella frazione di San Nicolao, a Curino, in provincia di Biella. È una struttura con cui collaboriamo volentieri da tempo perché amiamo la loro ospitalità e perché il ricavato di ciò che viene dato loro per l'alloggio viene versato all'Organizzazione Mato Grosso. La casa si sviluppa su due piani e ha un ampio giardino all'esterno, completo di calcetto e ping pong. Il piano terra viene utilizzato per le attività principali e i pasti, sono presenti due bagni sotto al porticato. Il primo piano ospita invece la camera delle formatrici, una delle due camerate e altri bagni. Mentre la soffitta ospita l'ultima camerata disponibile. Durante il nostro soggiorno è possibile che familiari e amici della signora Antonia, che ci ospita e si prende cura di noi, arrivino alla casa, ma sempre lasciandoci spazio e riservatezza per effettuare le nostre attività nei luoghi prestabiliti.
 
 
  ## TESTIMONIANZE DI ALTRI TURNI
 
-{{< youtubeLite id="Kluqy83C4hQ" label="video del turno precedente in Val Tartano" >}}
+{{< <iframe width="560" height="315" src="https://www.youtube.com/embed/Vy_6u7fBCng?si=Lzqp7_yIdOHwc8dK&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> label="Turno di Guardia preadolescenti 2024" >}}
 
 
  ## Programma sommativo delle giornate
@@ -86,7 +86,7 @@ Partenza alle 17:30
 
 
 ## PREZZO
-I prezzi sono in via di definizione. Verranno aggiornati a settembre con l'apertura delle iscrizioni. 
+I prezzi sono in via di definizione. Verranno aggiornati a settembre con l'apertura delle iscrizioni.
 
 
 ## PRE-ISCRIZIONE
