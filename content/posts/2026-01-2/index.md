@@ -32,7 +32,7 @@ Attraverso un’avventura scritta appositamente su questo tema e giochi in scato
 ## LA CASA
 
 <figure>
-      <img class=responsive-image src="casa.jpg" alt="Persone giocano al tavolo" />
+      <img class=responsive-image src="casa.jpg" alt="casa con giardino" />
 </figure>
 
 La casa che ci ospiterà si trova nella frazione di San Nicolao, a Curino, in provincia di Biella. È una struttura con cui collaboriamo volentieri da tempo perché amiamo la loro ospitalità e perché il ricavato di ciò che viene dato loro per l'alloggio viene versato all'Organizzazione Mato Grosso. La casa si sviluppa su due piani e ha un ampio giardino all'esterno, completo di calcetto e ping pong. Il piano terra viene utilizzato per le attività principali e i pasti, sono presenti due bagni sotto al porticato. Il primo piano ospita invece la camera delle formatrici, una delle due camerate e altri bagni. Mentre la soffitta ospita l'ultima camerata disponibile. Durante il nostro soggiorno è possibile che familiari e amici della signora Antonia, che ci ospita e si prende cura di noi, arrivino alla casa, ma sempre lasciandoci spazio e riservatezza per effettuare le nostre attività nei luoghi prestabiliti.
@@ -40,7 +40,7 @@ La casa che ci ospiterà si trova nella frazione di San Nicolao, a Curino, in pr
 
  ## TESTIMONIANZE DI ALTRI TURNI
  
-{{< youtubeLite id="ygdPj3jOK7Q"  label="Turno di Guardia adolescenti 2025" >}}
+{{< youtubeLite id="ygdPj3jOK7Q"  label="Turno di Guardia adolescenti 2024" >}}
 
  ## Programma sommativo delle giornate
 
@@ -93,4 +93,4 @@ I prezzi sono in via di definizione. Verranno aggiornati a settembre con l'apert
 ## PRE-ISCRIZIONE
 Se siete interessati a iscrivervi a questo Turno di Guardia tenete d'occhio il sito: a settembre aprono le iscrizioni e solitamente i posti si esauriscono in fretta!
 
-**Ricordiamo che questo Turno è riservato a ragazzi delle medie dagli 11 ai 14 anni**
+**Ricordiamo che questo Turno è riservato a ragazzi delle superiori dai 14 ai 19 anni**
