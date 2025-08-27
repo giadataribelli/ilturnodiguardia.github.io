@@ -1,7 +1,7 @@
 ---
 title: "TURNO PREADO 6-8 DICEMBRE 2025"
 date: 2025-07-15T00:01:00+01:00
-draft: true
+draft: false
 description: "Turno autunnale dedicato alla fascia 11/14 anni"
 categories:
 - minori
@@ -39,9 +39,8 @@ La casa che ci ospiterà si trova nella frazione di San Nicolao, a Curino, in pr
 
 
  ## TESTIMONIANZE DI ALTRI TURNI
-
-{{< <iframe width="560" height="315" src="https://www.youtube.com/embed/Vy_6u7fBCng?si=Lzqp7_yIdOHwc8dK&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> label="Turno di Guardia preadolescenti 2024" >}}
-
+ 
+{{< youtubeLite id="Vy_6u7fBCng"  label="Turno di Guardia preadolescenti 2024" >}}
 
  ## Programma sommativo delle giornate
 
