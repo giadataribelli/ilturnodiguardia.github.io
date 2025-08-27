@@ -46,7 +46,7 @@ La casa che ci ospiterà si trova nella frazione di San Nicolao, a Curino, in pr
 
 {{< timeline >}}
 
-{{< timelineItem icon="calendar" header="6 DICEMBRE" badge="31/08" >}}
+{{< timelineItem icon="calendar" header="6 DICEMBRE" badge="06/12" >}}
 Accoglienza alle 10:00<br>
 Sistemazione nelle camerate e giochi di presentazione<br>
 Primo Cerchio per la condivisione degli Accordi e dei Turni di servizio<br>
@@ -56,7 +56,7 @@ Giochi a squadre<br>
 Cerchio di parola
 {{< /timelineItem >}}
 
-{{< timelineItem icon="calendar" header="7 DICEMBRE" badge="01/09" >}}
+{{< timelineItem icon="calendar" header="7 DICEMBRE" badge="07/12" >}}
 Dinamiche rompighiaccio e Cerchio mattutino<br>
 Passeggiata in natura e attività sul tema<br>
 Gioco in scatola sul tema<br>
@@ -65,21 +65,12 @@ Serata di festa con proposte dei ragazzi<br>
 Cerchio serale
 {{< /timelineItem >}}
 
-{{< timelineItem icon="calendar" header="8 DICEMBRE" badge="02/09" >}}
+{{< timelineItem icon="calendar" header="8 DICEMBRE" badge="08/12" >}}
 Dinamiche rompighiaccio e Cerchio mattutino<br>
 Sessione di gioco di ruolo<br>
 Cerchio serale
 {{< /timelineItem >}}
 
-{{< timelineItem icon="calendar" header="3 SETTEMBRE" badge="03/09" >}}
-Dinamiche rompighiaccio e Cerchio mattutino<br>
-Giochi in scatola sulla tematica e riflessioni guidate<br>
-Sessione di gioco di ruolo<br>
-Sistemazione della casa e bagagli<br> 
-Debriefing sull’avventura e la tematica<br> 
-Momento di saluti<br> 
-Partenza alle 17:30
-{{< /timelineItem >}}
 
 {{< /timeline >}}
 
