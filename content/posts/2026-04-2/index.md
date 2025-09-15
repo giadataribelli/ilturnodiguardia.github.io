@@ -68,7 +68,10 @@ Cerchio serale
 {{< timelineItem icon="calendar" header="4 APRILE" badge="04/04" >}}
 Dinamiche rompighiaccio e Cerchio mattutino<br>
 Sessione di gioco di ruolo<br>
-Cerchio serale
+Sistemazione della casa e bagagli<br> 
+Debriefing sull’avventura e la tematica<br> 
+Momento di saluti<br> 
+Partenza alle 17:00
 {{< /timelineItem >}}
 
 

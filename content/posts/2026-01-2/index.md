@@ -75,10 +75,8 @@ Cerchio serale
 
 {{< timelineItem icon="calendar" header="5 GENNAIO" badge="05/01" >}}
 Dinamiche rompighiaccio e Cerchio mattutino<br>
-Giochi in scatola sulla tematica e riflessioni guidate<br>
-Sessione di gioco di ruolo<br>
-Sistemazione della casa e bagagli<br> 
 Debriefing sull’avventura e la tematica<br> 
+Sistemazione della casa e bagagli<br> 
 Momento di saluti<br> 
 Partenza alle 16:00
 {{< /timelineItem >}}
