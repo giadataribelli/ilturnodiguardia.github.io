@@ -79,10 +79,10 @@ Partenza alle 17:00
 
 
 ## PREZZO
-I prezzi sono in via di definizione. Verranno aggiornati a settembre con l'apertura delle iscrizioni.
+La quota comprensiva di vitto, alloggio, attività ludico-formative e assicurazione è di 250,00 euro iva inclusa.
 
 
 ## PRE-ISCRIZIONE
-Se siete interessati a iscrivervi a questo Turno di Guardia tenete d'occhio il sito: a settembre aprono le iscrizioni e solitamente i posti si esauriscono in fretta!
+Potete effettuare la pre-iscrizione compilando questo form con i dati richiesti. Una volta compilato riceverete la mail con i dettagli per confermare l'iscrizione. Nel caso in cui non dovesse arrivare entro qualche ora dalla compilazione del modulo, potete scrivere una mail a ilturnodiguardia@gmail.com
 
 **Ricordiamo che questo Turno è riservato a ragazzi delle medie dagli 11 ai 14 anni**
