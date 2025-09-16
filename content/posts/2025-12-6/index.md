@@ -86,3 +86,24 @@ La quota comprensiva di vitto, alloggio, attività ludico-formative e assicurazi
 Potete effettuare la pre-iscrizione compilando questo form con i dati richiesti. Una volta compilato riceverete la mail con i dettagli per confermare l'iscrizione. Nel caso in cui non dovesse arrivare entro qualche ora dalla compilazione del modulo, potete scrivere una mail a ilturnodiguardia@gmail.com
 
 **Ricordiamo che questo Turno è riservato a ragazzi delle medie dagli 11 ai 14 anni**
+
+{{< rawhtml >}}
+<form action="https://docs.google.com/forms/d/e/1FAIpQLScOM_IMy3aIa0YPxQlFQifsCtRxRkCsTgWVY9lLMMUElAtGIA/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true">
+  <label>Nome e cognome del minore da iscrivere*</label>
+        <input type="text" placeholder="Minore" class="form-input" name="entry.1765439111" required>
+
+   <label>Età del minore*</label>
+        <input type="text" placeholder="Età del minore*" class="form-input" name="entry.1623645537" required>
+
+  <label>Nome e cognome del genitore*</label>
+        <input type="text" placeholder="Genitore" class="form-input" name="entry.11285889" required>
+
+  <label>Email genitore*</label>
+        <input type="email" placeholder="Email" class="form-input" name="entry.72042641" required>
+
+  <label>Numero di telefono del genitore*</label>
+        <input type="text" placeholder="Numero di telefono" class="form-input" name="entry.721369235" required>
+
+   <button type="submit">Invia</button>
+</form>
+{{< /rawhtml >}}
