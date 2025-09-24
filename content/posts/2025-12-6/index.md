@@ -1,5 +1,5 @@
 ---
-title: "TURNO PREADO 6-8 DICEMBRE 2025"
+title: "TURNO PREADO 6-8 DICEMBRE 2025 SOLD-OUT"
 date: 2025-07-15T00:01:00+01:00
 draft: false
 description: "Turno autunnale dedicato alla fascia 11/14 anni"
@@ -82,10 +82,8 @@ Partenza alle 17:00
 La quota comprensiva di vitto, alloggio, attività ludico-formative e assicurazione è di 250,00 euro iva inclusa.
 
 
-## PRE-ISCRIZIONE
-Potete effettuare la pre-iscrizione compilando questo form con i dati richiesti. Una volta compilato riceverete la mail con i dettagli per confermare l'iscrizione. Nel caso in cui non dovesse arrivare entro qualche ora dalla compilazione del modulo, potete scrivere una mail a ilturnodiguardia@gmail.com
-
-**Ricordiamo che questo Turno è riservato a ragazzi delle medie dagli 11 ai 14 anni**
+## SOLD-OUT
+**ATTENZIONE: Questo Turno è sold-out, ma puoi dare un'occhiata ai Turni successivi già presenti sul sito!**
 
 {{< rawhtml >}}
 <form action="https://docs.google.com/forms/d/e/1FAIpQLScOM_IMy3aIa0YPxQlFQifsCtRxRkCsTgWVY9lLMMUElAtGIA/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true">
