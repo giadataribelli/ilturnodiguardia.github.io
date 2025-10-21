@@ -7,7 +7,7 @@
 
 colorScheme = "autumn"
 defaultAppearance = "light" # valid options: light or dark
-autoSwitchAppearance = true
+autoSwitchAppearance = false
 logo = "img/logo_turno_di_guardia.png"
 
 enableSearch = true
