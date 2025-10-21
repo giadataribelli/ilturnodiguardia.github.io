@@ -1,5 +1,5 @@
 ---
-title: "TURNO GIOVANI - 30 Aprile - 3 Maggio"
+title: "TURNO GIOVANI - 30 APRILE - 3 MAGGIO"
 date: 2025-01-01T00:01:00+01:00
 draft: false
 description: "Il primo Turno dedicato alla fascia d'età 19-25 anni"

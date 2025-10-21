@@ -1,7 +1,7 @@
 ---
 title: "TURNO PREADO 6-8 DICEMBRE 2025 SOLD-OUT"
 date: 2025-07-15T00:01:00+01:00
-draft: true
+draft: false
 description: "Turno autunnale dedicato alla fascia 11/14 anni"
 categories:
 - minori
