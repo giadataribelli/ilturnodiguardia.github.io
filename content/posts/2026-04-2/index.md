@@ -20,6 +20,8 @@ categories:
 La **crescita** è una tematica fondamentale per i preadolescenti.
 Attraverso un’avventura scritta appositamente su questo tema e giochi in scatola selezionati, il gruppo avrà diversi spunti su cui riflettere: come mi sento rispetto al ruolo degli adulti? Come mi sento quando ottengo le prime occasioni di autonomia?
 
+### Questo Turno di Guardia è in collaborazione con la cooperativa Vivaio Famiglia
+
 ## ATTIVITÀ
 
 - Avventura di gioco di ruolo
