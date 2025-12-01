@@ -20,7 +20,7 @@ categories:
 Il **cambiamento** è una tematica fondamentale per i preadolescenti.
 Attraverso un’avventura scritta appositamente su questo tema e giochi in scatola selezionati, il gruppo avrà diversi spunti su cui riflettere: come affronto le fasi di cambiamento e passaggio nella mia vita? Cosa prevale: senso di smarrimento o senso di libertà? Quali paure emergono da una situazione che cambia e come le gestisco?
 
-### Questo Turno di Guardia è in collaborazione con la cooperativa Vivaio Famiglia
+#### Questo Turno di Guardia è in collaborazione con la cooperativa <a href="https://vivaiofamiglia.it" class="text-primary-500 hover:text-primary-700"><b>Vivaio Famiglia</b><br></a>
 
 ## ATTIVITÀ
 

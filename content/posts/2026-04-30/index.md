@@ -20,7 +20,7 @@ categories:
 
 Per questa fascia d'età abbiamo deciso di concentrarci sulla tematica dell'indipendenza intesa come crescita, come distacco dalle figure genitoriali e dal passato, come scelta e integrazione di ciò che fa parte della nostra identità per andare oltre e percorrere la propria strada. Attraverso un’avventura scritta appositamente su questo tema e momenti di condivisione, il gruppo avrà diversi spunti su cui riflettere.
 
-### Questo Turno di Guardia è in collaborazione con la cooperativa Vivaio Famiglia
+#### Questo Turno di Guardia è in collaborazione con la cooperativa <a href="https://vivaiofamiglia.it" class="text-primary-500 hover:text-primary-700"><b>Vivaio Famiglia</b><br></a>
 
 ## ATTIVITÀ
 

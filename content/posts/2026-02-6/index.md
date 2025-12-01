@@ -19,7 +19,7 @@ categories:
 
 Spesso come adulti ci troviamo a lavorare, vivere, crescere all'interno di gruppi di persone. In queste situazioni diventa fondamentale sapersi ascoltare e osservare, ma anche riuscire a comprendere le dinamiche di gruppo che si attivano, per capire come muoversi in modo efficiente e sereno in ogni contesto. Durante queste giornate lavoreremo sulle dinamiche di gruppo e rifletteremo su ciò che caratterizza i gruppi: la figura del leader, la fiducia negli altri, ma al tempo stesso il giusto confine tra l'appartenenza e la riservatezza, tra l'Io e il Gruppo.
 
-### Questo Turno di Guardia è in collaborazione con la cooperativa Vivaio Famiglia
+#### Questo Turno di Guardia è in collaborazione con la cooperativa <a href="https://vivaiofamiglia.it" class="text-primary-500 hover:text-primary-700"><b>Vivaio Famiglia</b><br></a>
 
 ## ATTIVITÀ
 
