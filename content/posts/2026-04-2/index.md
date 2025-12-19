@@ -10,15 +10,15 @@ categories:
 
 ## 2 - 4 APRILE 2026 CURINO (BI)
 
-## Cambiamento
+## Identità
 <figure>
       <img class=responsive-image src="turnopreado.jpeg" alt="Persone giocano al tavolo" />
 </figure>
 
 ## TEMATICA
 
-La **crescita** è una tematica fondamentale per i preadolescenti.
-Attraverso un’avventura scritta appositamente su questo tema e giochi in scatola selezionati, il gruppo avrà diversi spunti su cui riflettere: come mi sento rispetto al ruolo degli adulti? Come mi sento quando ottengo le prime occasioni di autonomia?
+L'identità è una tematica fondamentale per i preadolescenti.
+Attraverso un’avventura scritta appositamente su questo tema e giochi in scatola selezionati, il gruppo avrà diversi spunti su cui riflettere: in che modo il mio passato mi definisce? Quali sono i miei talenti? Cosa voglio portare nel Mondo?
 
 #### Questo Turno di Guardia è in collaborazione con la cooperativa <a href="https://vivaiofamiglia.it" class="text-primary-500 hover:text-primary-700"><b>Vivaio Famiglia</b><br></a>
 
