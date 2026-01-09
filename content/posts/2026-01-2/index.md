@@ -1,7 +1,7 @@
 ---
 title: "TURNO ADO 2-5 GENNAIO 2026"
 date: 2025-07-15T00:01:00+01:00
-draft: false
+draft: true
 description: "Turno invernale dedicato alla fascia 14/19 anni"
 categories:
 - minori
