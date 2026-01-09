@@ -8,7 +8,7 @@ categories:
 ---
 
 
-## 2 - 4 APRILE 2026 CURINO (BI)
+## 2 - 4 APRILE 2026 CURINO (BI) SOLD OUT
 
 ## Identità
 <figure>
@@ -84,8 +84,8 @@ Partenza alle 17:00
 La quota comprensiva di vitto, alloggio, attività ludico-formative e assicurazione è di 250,00 euro iva inclusa.
 
 
-## PRE-ISCRIZIONE
-Potete effettuare la pre-iscrizione compilando questo form con i dati richiesti. Una volta compilato riceverete la mail con i dettagli per confermare l'iscrizione. Nel caso in cui non dovesse arrivare entro qualche ora dalla compilazione del modulo, potete scrivere una mail a ilturnodiguardia@gmail.com
+## SOLD OUT
+Abbiamo esaurito i posti per questo Turno, ma restate aggiornati sul sito per nuove date!
 
 **Ricordiamo che questo Turno è riservato a ragazzi delle medie dagli 11 ai 14 anni**
 
