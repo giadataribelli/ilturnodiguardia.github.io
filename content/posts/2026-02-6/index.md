@@ -7,7 +7,7 @@ categories:
 - adulti
 ---
 
-## 6 - 8 FEBBRAIO 2026 CURINO (BI)
+## 6 - 8 FEBBRAIO 2026 CURINO (BI) SOLD-OUT
 
 ## Io e il gruppo
 
@@ -80,7 +80,7 @@ La quota comprensiva di vitto, alloggio, attività ludico-formative e assicurazi
 
 ## ISCRIZIONI
 
-**ATTENZIONE: Questo Turno è riservato a persone dai 25 anni in su, se ti trovi in un'altra fascia d'età controlla gli altri Turni presenti sul sito!**
+**ATTENZIONE: Questo Turno è SOLD-OUT!**
 
 {{< rawhtml >}}
 <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfEAG-5YZemxqqRpYKKuFEpiSUC0ABFj-rdU97YcbRoyxbaDg/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true">
